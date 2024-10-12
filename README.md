@@ -75,10 +75,12 @@ Webflux (optionel)
 Fixer le bug sur la compilation et exécution avec succès sur 2 requêtes GET et POST après le fix.
 
 1. GET /rocket/{rocketid}
-   ![image](https://github.com/user-attachments/assets/a8445f24-68d4-4444-bb4b-a41a76c248dc)
+   ![image](https://github.com/user-attachments/assets/7e9ed283-6abc-46bc-8f48-70fedc63657b)
+
 
 2. POST /rocket
-    ![image](https://github.com/user-attachments/assets/b415b5dc-123b-4e68-a0ce-16b85456c030)
+    ![image](https://github.com/user-attachments/assets/238c3aa1-f898-4371-a35a-3745c69cdc2a)
+
 
 
 <p align="right">(<a href="#maven-top">Retour au debut de Maven</a>)</p>
@@ -97,7 +99,6 @@ Ajout de couverture de tests unitaires pour le code actuel.
 
 Chacune des parties prenantes doit participer également aux migrations, fix de bug et à l'utilisation correcte du gitflow
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <p align="right">(<a href="#maven-top">Retour au debut de Maven</a>)</p>
 ---
