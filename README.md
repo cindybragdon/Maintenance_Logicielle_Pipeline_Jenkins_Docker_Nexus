@@ -1,3 +1,4 @@
+<a name="readme-top"></a>
 <h2 align="center">Laboratoires, cours Maintenance de Logiciels</h2>
 <h3 align="center">Remis à l'enseignant, monsieur Dominic Légaré</h3>
 <h3 align="center">Réalisé par : Cindy Bragdon https://github.com/cindybragdon</h3>
@@ -16,7 +17,7 @@
  
 
 ---
-
+<a name="maven-top"></a>
 <!-- LABORATOIRE MAVEN PROJET INITIAL-->
 <h2 align="center">Laboratoire Maven Projet Initial</h2>
 
@@ -80,7 +81,7 @@ Fixer le bug sur la compilation et exécution avec succès sur 2 requêtes GET e
     ![image](https://github.com/user-attachments/assets/b415b5dc-123b-4e68-a0ce-16b85456c030)
 
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#maven-top">Retour au debut de Maven</a>)</p>
 
 
 
@@ -98,9 +99,10 @@ Chacune des parties prenantes doit participer également aux migrations, fix de 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
+<p align="right">(<a href="#maven-top">Retour au debut de Maven</a>)</p>
 ---
 ---
+<a name="jenkins-top"></a>
 <!-- LABORATOIRE PIPELINE JENKINS PROJET ACTUEL-->
 <h2 align="center">Laboratoire Pipeline Jenkins Projet Actuel</h2>
 
@@ -144,7 +146,7 @@ Le but de ce laboratoire est d'explorer les liens entre le projet Maven réalis�
 - Java 17
 - Intellij
 
-<p align="right">(<a href="#table-des-matières">back to top</a>)</p>
+<p align="right">(<a href="#jenkins-top">Retour au debut de Jenkins</a>)</p>
 
 ---
 
@@ -168,8 +170,6 @@ Double cliquez sur *index.html* et dans l'onglet de code, choissisez votre navig
 
 Voici la couverture de tests visuellement représentée par Jacoco <br>
 ![image](https://github.com/user-attachments/assets/9668763d-0e71-4c28-99a2-a192e5f766a9)
-
-<p align="right">(<a href="#table-des-matières">back to top</a>)</p>
 
 ---
 
@@ -197,7 +197,9 @@ Ajout d'un mécanisme qui empêche la génération de l'image Docker si la couve
 - `NEXUS_1` (URL du dépôt avec le port)
 - `NEXUS_DOCKER_PASSWORD` (mot de passe Nexus)
 - `NEXUS_DOCKER_USERNAME` (nom d'utilisateur Nexus)
+  
+<p align="right">(<a href="#jenkins-top">Retour au debut de Jenkins</a>)</p>
+<p align="right">(<a href="#readme-top">Retour en haut du readme</a>)</p>
 
-<p align="right">(<a href="#table-des-matières">back to top</a>)</p>
 
 
