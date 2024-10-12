@@ -139,13 +139,15 @@ Le but de ce laboratoire est d'explorer les liens entre le projet Maven r√©alis√
 <!-- TECHNOLOGIES UTILISEES -->
 ## Technologies utilisees
 
-- Jenkins
-- Maven
-- Nexus
-- Docker
-- Spring Boot 3.3.3
-- Java 17
-- Intellij
+- ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+- ![Jacoco](https://img.shields.io/badge/Jacoco-5C2D91?style=for-the-badge&logo=java&logoColor=white)
+- ![Jenkins](https://img.shields.io/badge/Jenkins-2C5263?style=for-the-badge&logo=jenkins&logoColor=white)
+- ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
+- ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+- ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
+- ![Nexus](https://img.shields.io/badge/Nexus-512888?style=for-the-badge&logo=sonatype-nexus&logoColor=white)
+- ![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
+
 
 <p align="right">(<a href="#jenkins-top">Retour au debut de Jenkins</a>)</p>
 
